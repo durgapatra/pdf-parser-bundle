@@ -1,5 +1,5 @@
 {
-  "name": "lecturenotes/pdf-parser-bundle",
+  "name": "lecturenotes01/pdf-parser-bundle",
   "description": "Integration of the smlot/pdfparser library for parsing PDF files in Symfony.",
   "keywords": ["pdf", "parser"],
   "homepage": "https://github.com/durgapatra/pdf-parser-bundle",
@@ -13,9 +13,9 @@
   ],
   "authors": [
     {
-      "name": "Jérémy Crombez",
-      "email": "jeremy.crombez@gmail.com",
-      "homepage": "http://kreatys.fr"
+      "name": "LectureNotes",
+      "email": "satyajeeta@lecturenotes.in",
+      "homepage": "https://lecturenotes.in"
     }
   ],
   "require": {
